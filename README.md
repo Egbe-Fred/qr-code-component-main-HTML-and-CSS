@@ -88,5 +88,5 @@ I will like to continue developing in HTML, CSS, Sass and CSS Tailwind.
 
 ## Author
 
-- Website - [Egbe Fredrick](https://gentle-trifle-a968b8.netlify.app/)
+- Website - [Egbe Fredrick](https://gentle-trifle-a968b8.netlify.app/),(https://github.com/Egbe-Fred/qr-code-component-main-HTML-and-CSS.git)
 - Frontend Mentor - [@Egbe-Fred](https://www.frontendmentor.io/profile/Egbe-Fred)
