@@ -25,8 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://github.com/Egbe-Fred/qr-code-component-main-HTML-and-CSS)
 
 ## My process
   The process was educating and I most say i learnt a lot while trying to build it the most important takeaway lesson was centering a <div> which was difficult to approached at first but with the help of Stark-Overflow and Google at the end of the day it was win win. 
@@ -84,10 +83,10 @@ I will like to continue developing in HTML, CSS, Sass and CSS Tailwind.
 
 ### Useful resources
 
-- [Example resource 1] (https://stackoverflow.com/questions/10829675/how-to-put-an-image-in-div-with-css) - This help me in centering my div and i strongly recommend it for someone anybody out. 
+- [Example resource 1](https://stackoverflow.com/questions/10829675/how-to-put-an-image-in-div-with-css) - This help me in centering my div and i strongly recommend it for someone anybody out. 
 - [Example resource 2](https://www.google.com) - This is an amazing search engine for every junior developer out there. 
 
 ## Author
 
-- Website - [Egbe Fredrick]
+- Website - [Egbe Fredrick](https://gentle-trifle-a968b8.netlify.app/)
 - Frontend Mentor - [@Egbe-Fred](https://www.frontendmentor.io/profile/Egbe-Fred)
